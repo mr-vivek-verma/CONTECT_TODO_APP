@@ -1,0 +1,44 @@
+.fieldBox {
+  margin: 5px;
+}
+.fieldBox > button {
+  margin: 10px;
+  width: 90%;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+.fieldBox > button:hover {
+  cursor: pointer;
+  background-color: rgb(32, 65, 77);
+  color: white;
+  border-radius: 2px;
+}
+
+.fieldBox > input {
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+.ba {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.br-pill {
+  border-radius: 9999px;
+}
+
+.bw1 {
+  border-width: 0.125rem;
+}
+.tracked {
+  letter-spacing: 0.1em;
+}
+.dark-gray {
+  color: #333;
+}
+.ph3 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
